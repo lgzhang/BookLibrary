@@ -1,6 +1,6 @@
 # BookLibrary
 
-一个RESTful风格的Backbone.js应用程序，实现了对电子书的简单管理。数据库：Mongodb，服务器：Node.js。
+一个RESTful风格的Backbone.js应用程序，实现了对电子书的简单管理。数据库：Mongodb，服务器：Node.js。项目来自《Developing Backbone.js Applications》这本书，在原程序的基础上进行了修改并增加了一些功能。
 
 ## 功能：
 
